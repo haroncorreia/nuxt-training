@@ -1,0 +1,9 @@
+
+-- Nuxt UI
+
+  https://ui.nuxt.com/
+
+
+-- Icons full database
+  
+  https://icones.js.org/
